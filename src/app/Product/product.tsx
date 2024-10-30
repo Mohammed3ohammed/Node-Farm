@@ -48,4 +48,4 @@ const Product = () => {
     )
 }
 
-export default Product;<p><span></span> </p>
+export default Product;
